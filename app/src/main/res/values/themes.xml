@@ -1,0 +1,7 @@
+<resources>
+  <style name="Theme.MRPOS" parent="Theme.AppCompat.NoActionBar">
+    <item name="android:windowBackground">#0C0A09</item>
+    <item name="android:statusBarColor">#0C0A09</item>
+    <item name="android:navigationBarColor">#0C0A09</item>
+  </style>
+</resources>
